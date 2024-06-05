@@ -1,0 +1,86 @@
+body {
+  background-color: rgb(2, 46, 2) !important;
+}
+body nav {
+  margin-top: 20px !important;
+}
+body nav .navbar {
+  display: flex;
+  justify-content: space-around;
+}
+body nav .navbar .logo {
+  width: 70px !important;
+  height: 70px !important;
+  border-radius: 50% !important;
+  margin-left: -100px;
+}
+body nav .navbar ul {
+  width: 600px;
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+  margin-left: -200px;
+}
+body nav .navbar ul a {
+  text-decoration: none;
+  color: gold;
+  border: 2px solid #fff;
+  width: 120px;
+  border-radius: 20px;
+  text-align: center;
+  padding-top: 6px;
+}
+body nav .navbar ul a:hover {
+  background-color: white;
+  background-color: transparent;
+}
+body main {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+body main .part1 {
+  display: flex;
+  justify-content: space-around;
+}
+body main .part1 .main-lagman {
+  margin-left: 50px;
+  width: 250px;
+  height: 200px;
+  border-radius: 10px 200px 20px 20px;
+}
+body main .part1 .main-text {
+  color: white;
+  font-size: 20px;
+  width: 600px;
+}
+body .menu {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+}
+body .menu .line1 {
+  width: 300px;
+  height: 10px;
+  background-color: rgb(95, 82, 9);
+}
+body .menu h2 {
+  text-align: center;
+  gap: 20px;
+  font-size: 50px;
+  color: rgb(95, 82, 9);
+  margin-top: -22px;
+}
+body .menu .line2 {
+  width: 300px;
+  height: 10px;
+  background-color: rgb(95, 82, 9);
+}
+body .menu-food p {
+  color: white;
+  border: 3px solid white;
+  height: 25px;
+  width: 80px;
+  border-radius: 20px;
+  text-align: center;
+  padding-top: 5px;
+}/*# sourceMappingURL=style.css.map */
